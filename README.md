@@ -1,6 +1,7 @@
 # iOS悬浮球 - 高级自定义悬浮窗工具
 
-![悬浮球预览](https://您的图片链接.png)
+![image](https://github.com/user-attachments/assets/0b15ae83-e58e-411e-90fd-3389f00a9041)
+
 
 ## 项目简介
 
